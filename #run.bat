@@ -9,5 +9,5 @@ cls
 echo Pushing new changes to Github...
 git add .
 git commit -m "Server file update"
-git push origin master
+git push origin main
 timeout /t 5
