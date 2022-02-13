@@ -1,0 +1,6 @@
+BlazeSpawnerCrystal,2299,2305,-3782,-3776
+DinosaurSkull,2305,2324,-3844,-3833
+P_Tent,2261,2270,-3740,-3731
+StoneIceBoulder2,2198,2207,-3758,-3749
+P_WitchDungeon,2407,2424,-3836,-3802
+StoneIceBoulder1,2160,2170,-3775,-3765

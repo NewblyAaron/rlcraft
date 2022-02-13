@@ -1,0 +1,6 @@
+ShrineSmallAir,-1681,-1673,-4636,-4628
+StonePlantMound1,-1949,-1943,-4638,-4632
+StonePlantMound3,-1770,-1759,-4640,-4631
+RLCraft_UndergroundFarm,-1772,-1730,-4658,-4615
+SmallOutpost,-2022,-1992,-4706,-4684
+StonePlantMound4,-2032,-2025,-4701,-4694

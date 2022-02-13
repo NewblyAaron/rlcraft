@@ -1,0 +1,5 @@
+StonePlantMound1,5133,5139,-806,-800
+P_WitchDungeon,5128,5162,-895,-878
+ShrineSmallAir,5142,5150,-749,-741
+AbandonedWoodTower,5162,5192,-867,-831
+StonePlantMound,5179,5184,-709,-704

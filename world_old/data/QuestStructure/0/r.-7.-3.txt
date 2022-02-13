@@ -1,0 +1,3 @@
+ShrineSmallEarth,-3896,-3884,-1631,-1619
+RLCraft_DecentZombie,-4017,-4017,-1632,-1632
+RLCraft_UndergroundRuin3,-4022,-4014,-1634,-1626

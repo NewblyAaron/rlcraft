@@ -1,0 +1,16 @@
+BigClockworkSite,-2108,-2063,-4139,-4104
+RLCraft_DecentSkeleton,-2201,-2201,-4151,-4151
+RLCraft_UndergroundRuin3,-2207,-2199,-4156,-4148
+StonePlantMound1,-2091,-2085,-4286,-4280
+StoneLeafMound,-2145,-2136,-4316,-4309
+SmallClockworkSite,-2245,-2223,-4185,-4166
+RLCraft_DecentZombie,-2277,-2277,-4241,-4241
+RLCraft_UndergroundRuin3,-2279,-2271,-4244,-4236
+BigClockworkSite,-2299,-2254,-4380,-4345
+StonePlantMound3,-2099,-2088,-4378,-4369
+StonePlantMound,-2196,-2191,-4403,-4398
+RLCraft_SmallUndergroundSkeleton,-2160,-2152,-4426,-4418
+Tree_Oak_TheMushroomOak_v3,-2088,-2029,-4462,-4412
+RLCraft_SmallUndergroundSkeleton,-2304,-2296,-4354,-4346
+StonePlantBoulder,-2064,-2054,-4537,-4527
+ShrineSmallFire,-2347,-2337,-4309,-4299

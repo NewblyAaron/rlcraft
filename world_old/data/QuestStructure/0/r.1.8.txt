@@ -1,0 +1,7 @@
+P_MayanTemple2,933,1032,4465,4533
+FallenPalmTree,799,803,4569,4579
+RLCraft_DecentCaveSpider,763,763,4264,4264
+RLCraft_UndergroundRuin2,758,768,4262,4269
+RLCraft_SmallUndergroundSkeleton,695,703,4478,4486
+RLCraft_DecentWitch,689,689,4517,4517
+RLCraft_UndergroundRuin2,684,691,4512,4522

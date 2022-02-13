@@ -1,0 +1,4 @@
+RLCraft_DecentSkeleton,-2152,-2152,-710,-710
+RLCraft_UndergroundRuin3,-2158,-2150,-713,-705
+StoneLeafMound,-2159,-2152,-592,-583
+P_DesertTemple,-2238,-2188,-550,-501

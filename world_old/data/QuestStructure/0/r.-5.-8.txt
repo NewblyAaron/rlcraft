@@ -1,0 +1,17 @@
+VillageMarketplace,-2730,-2716,-4469,-4455
+RLCraft_SmallUndergroundSkeleton,-2769,-2761,-4404,-4396
+VillageHouseRich,-2710,-2695,-4474,-4455
+P_VillageFarmhouse,-2693,-2681,-4498,-4486
+ThreeTowers,-2787,-2755,-4453,-4422
+P_VillageInn,-2730,-2721,-4503,-4492
+VillageLargeLibrary,-2719,-2699,-4503,-4484
+SeasonsGreenhouse,-2709,-2697,-4529,-4519
+RLCraft_DecentWitch,-2790,-2790,-4357,-4357
+RLCraft_UndergroundRuin3,-2796,-2788,-4362,-4354
+P_Village2Story,-2787,-2781,-4473,-4460
+VillageForgeLarge,-2746,-2730,-4538,-4526
+ShrineSmallFire,-2650,-2640,-4555,-4545
+RLCraft_SmallUndergroundSkeleton,-2822,-2814,-4456,-4448
+RLCraft_SmallUndergroundSkeleton,-2886,-2878,-4356,-4348
+DinosaurSkull,-2885,-2866,-4325,-4314
+P_PlainsCity,-2699,-2517,-4215,-4009

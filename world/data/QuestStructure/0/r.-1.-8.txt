@@ -1,0 +1,2 @@
+MysticalTree,-1008,-992,-4184,-4169
+StonePlantMound3,-955,-944,-4116,-4107

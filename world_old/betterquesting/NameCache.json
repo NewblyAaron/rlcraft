@@ -1,0 +1,29 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "Nyuburi",
+      "isOP:1": 1,
+      "uuid:8": "c019474b-5197-31cf-9e56-b66518cf1c16"
+    },
+    "1:10": {
+      "name:8": "BananaKetchupp",
+      "isOP:1": 0,
+      "uuid:8": "9fe9afa7-0ad9-3524-bd72-d8919f5d559f"
+    },
+    "2:10": {
+      "name:8": "Mikey",
+      "isOP:1": 1,
+      "uuid:8": "97525f0d-e9f9-3eca-8265-25665a1da308"
+    },
+    "3:10": {
+      "name:8": "Kacchi",
+      "isOP:1": 0,
+      "uuid:8": "a44ad312-7d09-3d90-897a-ca1d204a7b16"
+    },
+    "4:10": {
+      "name:8": "sxmdln",
+      "isOP:1": 0,
+      "uuid:8": "5911f4d2-e8e6-3335-ad0c-353c0c7f2763"
+    }
+  }
+}

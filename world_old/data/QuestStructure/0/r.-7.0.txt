@@ -1,0 +1,4 @@
+BlazeSpawnerCrystal,-3723,-3717,90,96
+RLCraft_DecentSkeleton,-3740,-3740,10,10
+RLCraft_UndergroundRuin2,-3745,-3735,8,15
+ShrineSmallAir,-3693,-3685,-97,-89

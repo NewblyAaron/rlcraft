@@ -1,0 +1,3 @@
+SmallFortRuins,-1166,-1136,2029,2061
+StonePlantBoulder,-1231,-1221,1941,1951
+StoneLeafMound,-1341,-1334,1977,1986

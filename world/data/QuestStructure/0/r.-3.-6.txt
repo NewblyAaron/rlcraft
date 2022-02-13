@@ -1,0 +1,12 @@
+StonePlantMound3,-1548,-1539,-3554,-3543
+StoneLeafMound,-1544,-1535,-3518,-3511
+StonePlantMound3,-1552,-1543,-3404,-3393
+StoneLeafMound,-1573,-1566,-3351,-3342
+SmallWoodenCottage1,-1638,-1632,-3510,-3499
+StonePlantMound,-1662,-1657,-3539,-3534
+StoneLeafMound,-1682,-1675,-3568,-3559
+ShrineSmallFire,-1772,-1762,-3432,-3422
+DinosaurSkeleton,-1795,-1786,-3589,-3543
+RLCraft_BasicCaveSpider,-1857,-1857,-3525,-3525
+RLCraft_UndergroundRuin1,-1863,-1854,-3528,-3519
+StonePlantMound4,-2013,-2006,-3500,-3493

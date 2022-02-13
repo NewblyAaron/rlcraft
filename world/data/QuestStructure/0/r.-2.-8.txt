@@ -1,0 +1,7 @@
+ShrineSmallAir,-1294,-1286,-4143,-4135
+PeacefulCrypt,-1118,-1094,-4238,-4222
+StonePlantMound4,-1061,-1054,-4197,-4190
+RLCraft_BasicCaveSpider,-1323,-1323,-4253,-4253
+RLCraft_UndergroundRuin1,-1329,-1320,-4256,-4247
+StonePlantMound1,-1380,-1374,-4216,-4210
+StonePlantMound1,-1506,-1500,-4202,-4196
