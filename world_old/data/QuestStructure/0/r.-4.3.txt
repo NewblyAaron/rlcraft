@@ -1,3 +1,0 @@
-RLCraft_UndergroundFarm,-2456,-2414,1703,1746
-DesertHut,-2323,-2313,1895,1904
-BlazeSpawnerCrystal,-2433,-2427,2007,2013

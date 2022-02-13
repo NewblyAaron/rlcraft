@@ -1,6 +1,0 @@
-StoneLeafMound,4692,4701,-2256,-2249
-UndergroundTreeoid,4936,4962,-2180,-2157
-ShrineSmallWater,4864,4872,-2377,-2369
-ClayWaterMound1,4895,4905,-2078,-2067
-StonePlantBoulder,4686,4696,-2118,-2108
-MeteorSite,4714,4729,-2083,-2053

@@ -1,5 +1,0 @@
-P_DesertDungeon,-1580,-1528,2168,2221
-DesertBeacon,-1654,-1648,2121,2127
-RLCraft_SmallUndergroundSkeleton,-1549,-1541,2330,2338
-RLCraft_DecentZombie,-1699,-1699,2279,2279
-RLCraft_UndergroundRuin3,-1705,-1697,2274,2282

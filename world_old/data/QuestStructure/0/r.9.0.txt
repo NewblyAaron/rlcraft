@@ -1,3 +1,0 @@
-MeteorSite,4616,4646,153,168
-P_VillageInn,4638,4649,134,143
-VillageWoodMill,4662,4678,140,153

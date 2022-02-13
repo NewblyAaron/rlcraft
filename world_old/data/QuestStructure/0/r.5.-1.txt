@@ -1,4 +1,0 @@
-StoneLeafMound,3034,3041,-953,-944
-RLCraft_DecentZombie,3022,3022,-917,-917
-RLCraft_UndergroundRuin2,3017,3024,-922,-912
-UndergroundCultChamber,2897,2929,-950,-908

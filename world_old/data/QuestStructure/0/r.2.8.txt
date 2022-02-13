@@ -1,2 +1,0 @@
-P_MayanTemple3,1011,1064,4370,4414
-StonePlantBoulder,1075,1085,4404,4414

@@ -1,4 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,-2430,-2422,-4486,-4478
-RLCraft_SmallUndergroundSkeleton,-2319,-2311,-4388,-4380
-UndergroundCultChamber,-2233,-2191,-4452,-4420
-ShrineSmallFire,-2190,-2180,-4394,-4384
